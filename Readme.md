@@ -5,9 +5,9 @@ A web application built for **Jarurat Care**, India's largest cancer care commun
 ---
 
 ## 🔗 Links
-- **Live Site:** `[YOUR_NETLIFY_LINK]`
-- **Backend API:** `[YOUR_RENDER_LINK]`
-- **GitHub:** `[YOUR_GITHUB_LINK]`
+- **Live Site:** `https://frontend-jarurat-care.vercel.app/`
+- **Backend API:** `jarurat-care-production.up.railway.app`
+- **GitHub:** `https://github.com/Kartikaayy/Jarurat_care/`
 
 ---
 
